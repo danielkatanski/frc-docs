@@ -5,7 +5,7 @@ Robot projects must be compiled ("built") and deployed in order to run on the ro
 
 To build and deploy a robot project, do one of:
 
-1. Open the Command Palette and enter/select "Build Robot Code"
+1. Open the Command Palette and enter/select "WPILib:Build Robot Code"
 2. Open the shortcut menu indicated by the ellipses in the top right corner of the VS Code window and select "Build Robot Code"
 3. Right-click on the build.gradle file in the project hierarchy and select "Build Robot Code"
 
